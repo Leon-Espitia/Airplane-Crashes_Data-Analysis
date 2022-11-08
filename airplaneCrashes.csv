@@ -1,4 +1,4 @@
-crash_Id,fecha,route,operator,aircraft_type,all_aboard,passangers_onboard,crew_aboard,deaths_number,passenger_fatalities,crew_fatalities
+crash_Id,date,route,operator,aircraft_type,all_aboard,passangers_onboard,crew_aboard,deaths_number,passenger_fatalities,crew_fatalities
 0,1908-09-17,"Fort Myer, Virginia",Military - U.S. Army,Wright Flyer III,2,1,1,1,1,0
 1,1909-09-07,"Juvisy-sur-Orge, France",NaN,Wright Byplane,1,0,1,1,0,0
 2,1912-07-12,"Atlantic City, New Jersey",Military - U.S. Navy,Dirigible,5,0,5,5,0,5
