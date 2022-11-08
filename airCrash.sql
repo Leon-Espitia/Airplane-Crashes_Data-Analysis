@@ -24,7 +24,7 @@ LINES TERMINATED BY '\n' IGNORE 1 LINES;
 
 DROP TABLE IF EXISTS lunar_phases;
 CREATE TABLE lunar_phases (
-	phase_id		INT,
+	phase_id		INT PRIMARY KEY AUTO_INCREMENT,
     new_moon		DATE,
 	first_quarter	DATE,
     full_moon		DATE,
