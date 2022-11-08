@@ -8,7 +8,6 @@ crash_Id,fecha,route,operator,aircraft_type,all_aboard,passangers_onboard,crew_a
 23,1918-12-16,"Elizabeth, New Jersey",US Aerial Mail Service,De Havilland DH-4,1,0,1,1,0,1
 24,1919-05-25,"Cleveland, Ohio",US Aerial Mail Service,De Havilland DH-4,1,0,1,1,0,1
 25,1919-07-19,"Dix Run, Pennsylvania",US Aerial Mail Service,De Havilland DH-4,1,0,1,1,0,1
-26,1919-07-21,"Chicago, Illinois",Wingfoot Air Express Goodyear Tire,FD Type Dirigible, ,NaN,NaN,3,2,1
 27,1919-08-02,"Verona, Italy",Caproni Company,Caproni Ca.48,14,12,2,14,12,2
 28,1919-10-02,"Newcastle, England",Aircraft Transport and Travel,De Havilland DH-4,1,0,1,1,0,1
 29,1919-10-14,"Cantonsville, Maryland",US Aerial Mail Service,Curtiss R-4LM,1,0,1,1,0,1
@@ -141,7 +140,6 @@ crash_Id,fecha,route,operator,aircraft_type,all_aboard,passangers_onboard,crew_a
 162,1928-10-04,"Gerona, Spain",Aeropostale,Breguet 14,3,2,1,3,2,1
 163,1928-10-18,"Polk, Pennsylvania",National Air Transport,Douglas M-4,1,0,1,1,0,1
 164,1928-10-31,"Valence, France",Air Union,Bleriot Spad 56,2,1,1,1,0,1
-165,1928-11-15,Off Gibraltar,Aeropostale,Latecoere 32,3,NaN,3,1,0,1
 166,1928-11-24,"Edgerton, Ohio",Universal Airlines,Hamilton H-47,3,2,1,3,2,1
 167,1928-11-25,"Edgerton, Ohio",Continental Air Lines,Travel Air 4000,1,0,1,1,0,1
 168,1928-11-25,"Bristolville, Ohio",National Air Transport,Douglas M-4,1,0,1,1,0,1
@@ -1212,7 +1210,6 @@ crash_Id,fecha,route,operator,aircraft_type,all_aboard,passangers_onboard,crew_a
 1303,1952-01-19,"Off Sandspit, BC, Canada",Northwest Orient Airlines,Douglas DC-4,43,40,3,36,33,3
 1304,1952-01-22,"Elizabeth, New Jersey",American Airlines,Convair CV-240-0,23,20,3,23,20,3
 1305,1952-02-04,"Kikwit, Belgian Congo",Sabena,Douglas DC-3,15,11,4,15,11,4
-1306,1952-02-07,"Kaneko, Japan",Military - U.S. Air Force,Boeing B-29,13,NaN,13,13,NaN,13
 1307,1952-02-11,"Elizabeth, New Jersey",National Airlines,Douglas DC-6,63,59,4,29,26,3
 1308,1952-02-16,"Near Burgio, Italy",Hunting Air Travel,Vickers 614 Viking 1,31,26,5,31,26,5
 1309,1952-02-19,"Nagpur, India",Deccan Airways,Douglas DC-3,16,12,4,3,1,2
@@ -1513,7 +1510,6 @@ crash_Id,fecha,route,operator,aircraft_type,all_aboard,passangers_onboard,crew_a
 1624,1957-04-10,"Anchieta Island, Brazil",REAL,Douglas DC-3,30,26,4,26,23,3
 1625,1957-04-15,"Merida, Mexico",Transportes Aéreos Mexicanos,Consolidated B-24J,3,0,3,3,0,3
 1626,1957-04-17,"Near El Quweira, Jordan",Military -Royal Air Force,Vickers Valetta C-Mk.1,24,21,3,24,21,3
-1627,1957-04-20,"Jirkouk, Iraq",Air France,Lockheed Super Constellation, ,NaN,NaN,1,1,0
 1628,1957-05-01,"Blackbushe, Hants, England",Eagle Aviation,Vickers Viking 1B,35,30,5,34,29,5
 1629,1957-05-05,"Santoshpur, India",Indian Airlines,Douglas C-47A,3,0,3,1,0,1
 1630,1957-05-09,"Barajas, Madrid, Spain",Aviaco,Bristol 170 Freighter,37,32,5,37,32,5
@@ -1707,7 +1703,6 @@ crash_Id,fecha,route,operator,aircraft_type,all_aboard,passangers_onboard,crew_a
 1821,1960-03-19,"Cordoba, Colombia",SAMSA,Curtiss C-46,46,42,4,25,22,3
 1822,1960-04-05,"Siuna, Nicaragua",Lanica,Curtiss C-46A-40-CU,18,14,4,2,1,1
 1823,1960-04-12,"Pelotas, Brazil",Cruzeiro,Douglas DC-3,22,19,3,10,8,2
-1825,1960-04-18,"Stephenville, Newfoundland",Military - U.S. Air Force,Douglas C-124C Globemaster,9,NaN,9,9,NaN,9
 1826,1960-04-19,"Bogota, Colombia",Lloyd Aereo Colombiano,Curtiss C-46,51,44,7,37,31,6
 1827,1960-04-20,"Hickory, North Carolina",Piedmont Airlines / Private,Fairchild F-27 / Cessna 310,44,39,5,4,3,1
 1828,1960-04-22,"Bunia, Belgian Congo",Sobelair SA (Belgium),Douglas C-54B,35,28,7,35,28,7
@@ -2489,7 +2484,6 @@ crash_Id,fecha,route,operator,aircraft_type,all_aboard,passangers_onboard,crew_a
 2621,1972-07-06,"Off Las Palmas, Canary Islands, Spain",Aviaco,McDonnell Douglas DC-8-52,10,0,10,10,0,10
 2622,1972-07-11,"Near Quang Tri, South Vietnam",Military - U.S. Marine Corps,Sikorsky CH-53D (helicopter),67,60,7,52,50,2
 2623,1972-07-11,"Near Grytoya, Norway",Military - Royal Norwegian Air Force,de Havilland Canada DHC-6 Twin Otter 100,19,17,2,19,17,2
-2624,1972-07-20,"Corfu Island, Greece",Charter,Sud-Aviation SE210 Caravelle,84,NaN,NaN,1,1,0
 2625,1972-07-29,"Villavicencio, Colombia",AVIANCA / AVIANCA,Douglas DC-3 / Douglas DC-3,38,32,6,38,32,6
 2626,1972-08-12,"Near Delhi, India",Indian Airlines,Fokker F-27 Friendship 100,18,14,4,18,14,4
 2627,1972-08-12,"Near Soc Trang, South Vietnam",Military - U.S. Air Force,Lockheed C-130E,44,36,8,30,23,7
