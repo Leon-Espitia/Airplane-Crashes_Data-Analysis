@@ -4,7 +4,7 @@ use Data_Analysis_Project;
 
 DROP TABLE IF EXISTS airplanecrash;
 CREATE TABLE airplanecrash (
-	crash_Id				INT PRIMARY KEY,
+	event_Id				INT PRIMARY KEY,
     crash_date				DATE,
     route					VARCHAR(150),
     operator				VARCHAR(150),
@@ -24,7 +24,7 @@ LINES TERMINATED BY '\n' IGNORE 1 LINES;
 
 DROP TABLE IF EXISTS lunar_phases;
 CREATE TABLE lunar_phases (
-	phase_id		INT PRIMARY KEY AUTO_INCREMENT,
+	event_id		INT PRIMARY KEY,
     new_moon		DATE,
 	first_quarter	DATE,
     full_moon		DATE,

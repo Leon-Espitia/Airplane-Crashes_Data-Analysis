@@ -1,4 +1,4 @@
-phase_id,new moons,first quarter moon,full moons,third quarter moons
+event_id,new moons,first quarter moon,full moons,third quarter moons
 1,1900-01-02,1900-01-08,1900-01-16,1900-01-24
 2,1900-01-31,1900-02-07,1900-02-15,1900-02-23
 3,1900-03-01,1900-03-07,1900-03-16,1900-03-23
