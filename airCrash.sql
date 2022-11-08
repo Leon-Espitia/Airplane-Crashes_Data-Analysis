@@ -5,7 +5,7 @@ use Data_Analysis_Project;
 DROP TABLE IF EXISTS airplanecrash;
 CREATE TABLE airplanecrash (
 	crash_Id				INT PRIMARY KEY,
-    fecha					DATETIME,
+    crash_date					DATETIME,
     route					VARCHAR(150),
     operator				VARCHAR(150),
     aircraft_type			VARCHAR(150),
