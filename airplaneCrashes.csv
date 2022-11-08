@@ -581,7 +581,6 @@ crash_Id,date,route,operator,aircraft_type,all_aboard,passangers_onboard,crew_ab
 625,1941-12-26,"Baiserke, Kazakhstan",Aeroflot,Tupolev ANT-6,34,28,6,26,21,5
 626,1941-12-29,"Sabang, Indonesia",BOAC,Short S-23 Empire Flying Boat,4,0,4,4,0,4
 627,1942-01-16,"Near Las Vegas, Nevada",Trans Continental and Western Air,Douglas DC-3,22,19,3,22,19,3
-628,1942-01-20,"Kupang, Indonesia",Military - Royal Australian Air Force,Lockheed Hudson,11,7,4,11,NaN,4
 629,1942-01-26,"Kupang, Timor",KNILM,Grumman G-21 Goose,5,2,3,5,2,3
 630,1942-01-30,"Near Kupang, Timor",Qantas,Short S-23 (flying boat),18,13,5,13,11,2
 631,1942-02-15,"English Channel, near Plymouth, England",British Overseas Airways,Consolidated Liberator,9,4,5,9,4,5
@@ -4539,7 +4538,6 @@ crash_Id,date,route,operator,aircraft_type,all_aboard,passangers_onboard,crew_ab
 4767,2010-05-22,"Mangalore, India",Air India Express,Boeing 737-8HG,166,160,6,159,153,6
 4768,2010-06-19,"Yangadou, Cameroon",Aero Service,CASA 212 Aviocar,11,9,2,11,9,2
 4769,2010-06-23,"Quebec, Canada",Aéropro,Beechcraft A100 King Air,7,5,2,7,5,2
-4770,2010-07-05,"Tuzla, Romania",Military - Romainian Air Force,Antonov AN-2,14,10,4,12,NaN,3
 4771,2010-07-28,"Islamabad, Pakistan",Airblue,Airbus A321-231,152,146,6,152,146,6
 4772,2010-07-28,"Near Elmendorf AFB, Alaska",Military - US Air Force,McDonnell Douglas C-17A Globemaster III,4,0,4,4,0,4
 4773,2010-08-01,"Near Denali National Park, Alaska",All West Freight,Fairchild C-123K,3,0,3,3,0,3
