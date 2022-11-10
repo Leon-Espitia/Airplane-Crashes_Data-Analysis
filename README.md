@@ -8,10 +8,8 @@ On the provided source data set proposed to apply to cleanse and transform progr
 Finally, by using a powerful visualization tool such as Power BI I have created an informative **Dashboard** where I will show my analytical skills developed through the course getting some insights from data.
 
 ## Topic: Air Plane Crashes
-
-
-
-
+The human race evolution brings many risks the aeronautical field is one of the most risky professions due to the fatidical results after any kind of accident. 
+Throughtout this project I goning to analyse the data and extract relevant information about the amount of aircraft crashes during the last century aeronautical history and finally taking some conclusions based on their records.
 
 
 ## Work Flow
