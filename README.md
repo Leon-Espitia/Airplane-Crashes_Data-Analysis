@@ -12,9 +12,9 @@ The human race evolution brings many risks the aeronautical field is one of the 
 Throughtout this project I goning to analyse the data and extract relevant information about the amount of aircraft crashes during the last century aeronautical history and finally taking some conclusions based on their records.
 
 
-## Work Flow
+## Workflow
 
-&emsp; &emsp; <img src="assets/Analysis.png">
+&emsp; &emsp; <img src="assets/workflow.png">
 
 ## Built With
 
