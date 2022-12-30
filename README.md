@@ -1,7 +1,7 @@
 <img src="assets/Tenerife-airport-disaster-crash-animation.gif">
 
-# PI_3_Data_Analytics 
-This milestone is the final individual Data Science project proposed by **Henry**  its target is to group programming and analytical concepts viewed during the Bootcamp.
+# Airplane crashes Data_Analytics 
+This milestone is the final individual Data Science project proposed by **Henry** its goal is to group programming and analytical concepts viewed during the Bootcamp.
 
 On the provided source data set proposed to apply to cleanse and transform programming methods to optimize records for later uploading to a relational query program **MYSQL** and create a database.
 
